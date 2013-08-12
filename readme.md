@@ -7,7 +7,5 @@
       -DarchetypeArtifactId=scala-archetype-simple  \
       -DremoteRepositories=http://scala-tools.org/repo-releases \
       -DgroupId=org.glassfish.samples \
-
       -DartifactId=scala-helloworld \
-
       -Dversion=1.0-SNAPSHOT
